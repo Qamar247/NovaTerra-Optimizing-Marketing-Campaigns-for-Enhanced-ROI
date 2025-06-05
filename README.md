@@ -4,6 +4,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF2a3FlendqNjczM2V1ZWh6cnY2MnNoaWN3NnEzNHh0aDd4cjVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" alt="Welcome GIF" />
 </h2>
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qamar247/NovaTerra-Optimizing-Marketing-Campaigns-for-Enhanced-ROI/blob/main/Optimizing_Marketing_Campaigns_for_Enhanced_ROI_A_Data_Driven_Approach.ipynb)
+
 
 ## About
 
