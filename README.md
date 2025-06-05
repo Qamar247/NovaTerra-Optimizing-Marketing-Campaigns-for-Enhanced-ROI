@@ -65,7 +65,7 @@
 
 
 ## Project Notebook
-[View here](https://github.com/Qamar247/NovaTerra-Optimizing-Marketing-Campaigns-for-Enhanced-ROI/blob/main/NovaTerra_Optimizing_Marketing_Campaigns.ipynb)
+[View here](https://github.com/Qamar247/NovaTerra-Optimizing-Marketing-Campaigns-for-Enhanced-ROI/blob/main/Optimizing_Marketing_Campaigns_for_Enhanced_ROI_A_Data_Driven_Approach.ipynb)
 <br>
 <br>
 
